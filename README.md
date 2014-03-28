@@ -12,7 +12,7 @@ This is what you need to start working on your API.
 ### Install
 
 ```
-$ git clone https://github.com/rpfernando/personal_api
+$ git clone https://github.com/rpfernando/flask_api_seed
 $ cd path/to/personal_api
 $ pip install -r requirements.txt
 ```
